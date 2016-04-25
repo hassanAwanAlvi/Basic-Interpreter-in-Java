@@ -1,0 +1,10 @@
+var x = 10
+var y = x + 30
+var zas = y + 30
+var s = 0 + 50 +20
+y=x+10
+x = x + 20
+print x
+print x - 10
+print zas - 90
+print y
